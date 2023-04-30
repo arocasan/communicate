@@ -9,3 +9,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- [x] One
+- [ ] Two
+- [x] This is not a plan
